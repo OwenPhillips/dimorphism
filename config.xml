@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<data>data/example_data.csv</data>
+	<subjectId>SUBJID</subjectId>
+	<groups>Sex</groups>
+	<variables>
+		<variable>Var1</variable>
+		<variable>Var2</variable>
+	</variables>
+</configuration>
